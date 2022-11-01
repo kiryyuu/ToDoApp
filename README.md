@@ -1,3 +1,3 @@
 # ToDoApp
 
-Another one of my little Uni (or High school?) projects; a to-do app
+One of my little Uni projects; a simple to-do app
